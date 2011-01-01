@@ -101,6 +101,7 @@ aside .selected {
 	font-weight: bold;
 	text-shadow: 0 1px 0 #004a83;
 }
+aside a {display: block;}
 aside a, aside a:visited {
 	color: inherit;
 	text-decoration: none;
